@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-23T22:41:35 IST" name="Default suite" finished-at="2025-04-23T22:41:46 IST" duration-ms="10312">
+    <groups>
+    </groups>
+    <test started-at="2025-04-23T22:41:35 IST" name="Default test" finished-at="2025-04-23T22:41:46 IST" duration-ms="10312">
+      <class name="newTec.LoginGetLogToken">
+        <test-method signature="login()[pri:1, instance:newTec.LoginGetLogToken@5c6648b0]" started-at="2025-04-23T22:41:35 IST" name="login" finished-at="2025-04-23T22:41:40 IST" duration-ms="4699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="getStateId()[pri:2, instance:newTec.LoginGetLogToken@5c6648b0]" started-at="2025-04-23T22:41:40 IST" name="getStateId" finished-at="2025-04-23T22:41:41 IST" duration-ms="1329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStateId -->
+        <test-method signature="getCityId()[pri:3, instance:newTec.LoginGetLogToken@5c6648b0]" started-at="2025-04-23T22:41:41 IST" name="getCityId" finished-at="2025-04-23T22:41:43 IST" duration-ms="1247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCityId -->
+        <test-method signature="addAdd()[pri:4, instance:newTec.LoginGetLogToken@5c6648b0]" started-at="2025-04-23T22:41:43 IST" name="addAdd" finished-at="2025-04-23T22:41:44 IST" duration-ms="1190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAdd -->
+        <test-method signature="getAddres()[pri:5, instance:newTec.LoginGetLogToken@5c6648b0]" started-at="2025-04-23T22:41:44 IST" name="getAddres" finished-at="2025-04-23T22:41:46 IST" duration-ms="1741" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAddres -->
+      </class> <!-- newTec.LoginGetLogToken -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

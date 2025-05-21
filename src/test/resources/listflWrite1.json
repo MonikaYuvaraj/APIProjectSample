@@ -1,0 +1,47 @@
+{
+	"page": 1,
+	"per_page": 6,
+	"total": 454,
+	"total_pages": 6565,
+	"data": [
+		{
+			"id": 23,
+			"flightName": "greens",
+			"Country": "India",
+			"Destinations": "56",
+			"URL": "https:\\/\\/en.wikipedia.org\\/wiki\\/Air_India"
+		},
+		{
+			"id": 23,
+			"flightName": "greens",
+			"Country": "India",
+			"Destinations": "56",
+			"URL": "https:\\/\\/en.wikipedia.org\\/wiki\\/Air_India"
+		},
+		{
+			"id": 23,
+			"flightName": "greens",
+			"Country": "India",
+			"Destinations": "56",
+			"URL": "https:\\/\\/en.wikipedia.org\\/wiki\\/Air_India"
+		},
+		{
+			"id": 23,
+			"flightName": "greens",
+			"Country": "India",
+			"Destinations": "56",
+			"URL": "https:\\/\\/en.wikipedia.org\\/wiki\\/Air_India"
+		},
+		{
+			"id": 23,
+			"flightName": "greens",
+			"Country": "India",
+			"Destinations": "56",
+			"URL": "https:\\/\\/en.wikipedia.org\\/wiki\\/Air_India"
+		}
+	],
+	"support": {
+		"url": "https:\\/\\/www.omrbranch.com",
+		"text": "Automation"
+	}
+}
